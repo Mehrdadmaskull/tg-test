@@ -14,6 +14,7 @@
 		FEAD19262CCEC53D00E99B6F /* Exceptions for "tg-test" folder in "tg-test" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
+				HLSVideoContent.swift,
 				Info.plist,
 			);
 			target = FEAD19132CCEC53B00E99B6F /* tg-test */;

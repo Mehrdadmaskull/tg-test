@@ -2,15 +2,13 @@
 //  AppDelegate.swift
 //  tg-test
 //
-//  Created by Mehrdad Ahmadi on 2024-10-27.
+//  Created by Mehrdad Ahmadi on 2024-10-10.
 //
 
 import UIKit
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
-
-
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
